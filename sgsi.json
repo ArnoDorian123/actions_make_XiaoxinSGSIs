@@ -1,7 +1,7 @@
 {
   "rom_url": "http://bigota.d.miui.com/9.8.29/miui_MI5SPlus_9.8.29_339fb2abdc_8.0.zip",
   "rom_name": "miui_MI5SPlus_9.8.29_339fb2abdc_8.0.zip",
-  "pack_sgsi": "HMNote7_20.10.22_Q-eu_XiaoxinSGSIs_Pinkdoge.7z",
+  "pack_sgsi": "MI5SPlus_9.8.29_339fb2abdc_8.0.7z",
   "make_miui": true,
   "make_flyme": false,
   "make_coloros": false,
